@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="chatapp">ChatApp</string>
+    <string name="user_name">User Name</string>
+    <string name="exampe_route_com">exampe_route_com</string>
+    <string name="password">Password</string>
+    <string name="passwordconfirm">PasswordConfirm</string>
+    <string name="register">REGISTER</string>
+    <string name="Loading">loading......</string>
+
+</resources>
